@@ -11,6 +11,7 @@
   "dependencies": {
     "dateformat": "^1.0.12",
     "express": "^4.13.4",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "sequelize": "^3.20.0"
   }
 }
