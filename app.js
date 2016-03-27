@@ -3,6 +3,7 @@ var app = express();
 
 require('./config')(app);
 require('./controllers/application')(app);
+require('./controllers/admin')(app);
 
 var PORT = parseInt(process.argv[2]);
 
